@@ -1,6 +1,6 @@
 # AWS Cloud Infrastructure Monitoring with Terraform
 
-A fully automated, modular, and version-controlled AWS infrastructure setup that provisions a custom network environment, a monitored EC2 instance, and an email-based alerting pipeline — all defined as code using Terraform.
+A fully automated, modular, and version-controlled AWS infrastructure setup that provisions a custom network environment, a monitored EC2 instance, and an email-based alerting pipeline, all defined as code using Terraform.
 
 ## Overview
 
